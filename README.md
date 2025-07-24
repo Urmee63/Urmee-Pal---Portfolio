@@ -74,7 +74,6 @@ Some projects are kept private due to confidentiality.
 
 ## 📫 Let's Connect!
 - 📧 **Email:** [Urmee Pal](mailto:urmeeacademicmsc@gmail.com)
-- 📱 **Phone:** (+49) 1789683141
 - 📍 **Location:** Dresden, Germany
 - 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/urmee-pal)
 
