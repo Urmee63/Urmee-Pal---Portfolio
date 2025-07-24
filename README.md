@@ -73,10 +73,10 @@ Some projects are kept private due to confidentiality.
 - **Hindi** (Conversational)
 
 ## 📫 Let's Connect!
-- 📧 **Email:** urmee63@gmail.com
+- 📧 **Email:** [Urmee Pal](mailto:urmeeacademicmsc@gmail.com)
 - 📱 **Phone:** (+49) 1789683141
 - 📍 **Location:** Dresden, Germany
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/urmee-pal)
 
 ## 🎯 Currently Seeking
 Backend development opportunities in **Computer Vision**, **Robotics**, and **Image Processing** where I can apply my expertise in automation, embedded systems, and advanced algorithms to create impactful solutions.
