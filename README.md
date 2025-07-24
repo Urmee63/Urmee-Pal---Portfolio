@@ -2,7 +2,7 @@
 
 **Software Developer** | **MSc Computational Logic** | **Automation & Image Processing Specialist**
 
-Currently working as a Software Developer at JOYNEXT GmbH, Dresden, specializing in Python automation, C++ system integration, and embedded IoT solutions. Passionate about computer vision, robotics, and applying cutting-edge technology to solve real-world challenges.
+Currently working as a Software Developer at JOYNEXT GmbH, Dresden, specializing in Python automation, system integration, and previously worked on embedded IoT solutions. 
 
 ## 🚀 Professional Experience
 - **Working Student - IVI Connectivity (Speech Team)** at JOYNEXT GmbH (2022-Present)
@@ -23,6 +23,12 @@ Currently working as a Software Developer at JOYNEXT GmbH, Dresden, specializing
 ### 📱 Mobile & Embedded Systems
 - **[Android-Automotive-Sample](link-if-available)** - Google Android Automotive OS sample application development
 - **[UWB-Interface-Mapper](link-if-available)** - NXP UWB module UCI command mapping and diagnostics tool
+
+
+Some projects are kept private due to confidentiality. 
+**Additional work samples available upon request for hiring managers.**
+
+📧 Contact: urmee63@gmail.com
 
 ## 🎓 Academic & Research Projects
 
