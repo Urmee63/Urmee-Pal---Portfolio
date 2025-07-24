@@ -28,7 +28,7 @@ Currently working as a Software Developer at JOYNEXT GmbH, Dresden, specializing
 Some projects are kept private due to confidentiality. 
 **Additional work samples available upon request for hiring managers.**
 
-📧 Contact: urmeeacademicmsc@gmail.com
+📧 Contact: [Urmee Pal](mailto:urmeeacademicmsc@gmail.com)
 
 ## 🎓 Academic & Research Projects
 
